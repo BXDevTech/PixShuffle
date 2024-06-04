@@ -13,19 +13,19 @@ If you have any specific questions about PixShuffel, join our [Support Server](h
 ## Visual Preview
 
 ### Screenshot 1
-![Screenshot 1](/PixShuffle/src/img/one.png)
+![Screenshot 1](https://github.com/BXDevTech/PixShuffle/blob/main/src/img/one.png)
 
 ### Screenshot 2
-![Screenshot 2](/PixShuffle/src/img/two.png)
+![Screenshot 2](https://github.com/BXDevTech/PixShuffle/blob/main/src/img/two.png)
 
 ### Screenshot 3
-![Screenshot 3](/PixShuffle/src/img/three.png)
+![Screenshot 3](https://github.com/BXDevTech/PixShuffle/blob/main/src/img/three.png)
 
 ### Screenshot 4
-![Screenshot 4](/PixShuffle/src/img/four.png)
+![Screenshot 4](https://github.com/BXDevTech/PixShuffle/blob/main/src/img/four.png)
 
-### Screenshot 4
-![Screenshot 5](/PixShuffle/src/img/five.png)
+### Screenshot 5
+![Screenshot 5](https://github.com/BXDevTech/PixShuffle/blob/main/src/img/five.png)
 
 ### Links
 
